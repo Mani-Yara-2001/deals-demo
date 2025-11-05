@@ -1,0 +1,110 @@
+{
+  "phones": [
+    { "id": 1, "title": "Nova X5 Smartphone", "description": "6.5-inch AMOLED display, 128GB storage, 48MP camera.", "price": 699.99, "image": "https://picsum.photos/seed/phone1/600/400" },
+    { "id": 2, "title": "Aero One 5G", "description": "Fast 5G phone with Snapdragon chip and 120Hz refresh rate.", "price": 799.5, "image": "https://picsum.photos/seed/phone2/600/400" },
+    { "id": 3, "title": "Lumen Note 11", "description": "Affordable Android smartphone with 64GB memory and triple camera.", "price": 249.99, "image": "https://picsum.photos/seed/phone3/600/400" },
+    { "id": 4, "title": "Orion Max", "description": "Flagship device with 200MP camera and 5,000mAh battery.", "price": 1199.0, "image": "https://picsum.photos/seed/phone4/600/400" },
+    { "id": 5, "title": "Zen Mini 9", "description": "Compact 5.8-inch phone with OLED display and 256GB storage.", "price": 549.0, "image": "https://picsum.photos/seed/phone5/600/400" },
+    { "id": 6, "title": "Bolt S Pro", "description": "Durable water-resistant phone with Gorilla Glass protection.", "price": 659.0, "image": "https://picsum.photos/seed/phone6/600/400" },
+    { "id": 7, "title": "Spectra 9 Ultra", "description": "High-end phone with curved edge display and 12GB RAM.", "price": 1099.0, "image": "https://picsum.photos/seed/phone7/600/400" },
+    { "id": 8, "title": "Eco M5", "description": "Budget-friendly smartphone with great battery life.", "price": 179.0, "image": "https://picsum.photos/seed/phone8/600/400" },
+    { "id": 9, "title": "Pulse 7", "description": "5G-enabled device with 90Hz display and 128GB ROM.", "price": 499.0, "image": "https://picsum.photos/seed/phone9/600/400" },
+    { "id": 10, "title": "Nova X6 Ultra", "description": "6.9-inch display and triple-lens camera with AI optimization.", "price": 899.0, "image": "https://picsum.photos/seed/phone10/600/400" },
+    { "id": 11, "title": "Skyline A20", "description": "Smooth Android interface with 6GB RAM and 256GB ROM.", "price": 399.0, "image": "https://picsum.photos/seed/phone11/600/400" },
+    { "id": 12, "title": "Lunar Edge", "description": "Sleek smartphone with edge display and wireless charging.", "price": 749.0, "image": "https://picsum.photos/seed/phone12/600/400" },
+    { "id": 13, "title": "Aero Lite", "description": "Compact phone for casual users, 32GB storage, great battery.", "price": 159.0, "image": "https://picsum.photos/seed/phone13/600/400" },
+    { "id": 14, "title": "Velox 10 Pro", "description": "Powerful gaming phone with vapor cooling and 144Hz display.", "price": 999.0, "image": "https://picsum.photos/seed/phone14/600/400" },
+    { "id": 15, "title": "Echo Core 5", "description": "Affordable entry-level Android device with reliable performance.", "price": 129.0, "image": "https://picsum.photos/seed/phone15/600/400" }
+  ],
+
+  "laptops": [
+    { "id": 1, "title": "ZenBook Air 14", "description": "Ultra-slim 14-inch laptop with Intel i7 and 16GB RAM.", "price": 1299.0, "image": "https://picsum.photos/seed/laptop1/600/400" },
+    { "id": 2, "title": "TitanBook Pro", "description": "Powerful laptop for creators with RTX 4070 GPU.", "price": 2199.0, "image": "https://picsum.photos/seed/laptop2/600/400" },
+    { "id": 3, "title": "NoteMate 15", "description": "Budget-friendly 15-inch laptop for daily work.", "price": 499.0, "image": "https://picsum.photos/seed/laptop3/600/400" },
+    { "id": 4, "title": "SpectraBook 13", "description": "Touchscreen 2-in-1 convertible laptop with SSD.", "price": 1049.0, "image": "https://picsum.photos/seed/laptop4/600/400" },
+    { "id": 5, "title": "Aurora 17", "description": "Gaming laptop with Ryzen 9 and RTX 4060.", "price": 1899.0, "image": "https://picsum.photos/seed/laptop5/600/400" },
+    { "id": 6, "title": "LumaBook S", "description": "Lightweight aluminum laptop with 512GB SSD.", "price": 849.0, "image": "https://picsum.photos/seed/laptop6/600/400" },
+    { "id": 7, "title": "EdgeBook X", "description": "14-inch notebook with OLED screen and long battery life.", "price": 999.0, "image": "https://picsum.photos/seed/laptop7/600/400" },
+    { "id": 8, "title": "SwiftPad 13", "description": "Portable laptop-tablet hybrid with stylus support.", "price": 1150.0, "image": "https://picsum.photos/seed/laptop8/600/400" },
+    { "id": 9, "title": "NovaBook M", "description": "Midrange laptop for office and multimedia use.", "price": 699.0, "image": "https://picsum.photos/seed/laptop9/600/400" },
+    { "id": 10, "title": "BoltBook Studio", "description": "Creative laptop optimized for design and video editing.", "price": 1749.0, "image": "https://picsum.photos/seed/laptop10/600/400" },
+    { "id": 11, "title": "CoreFlex 14", "description": "Business-class laptop with fingerprint reader.", "price": 1249.0, "image": "https://picsum.photos/seed/laptop11/600/400" },
+    { "id": 12, "title": "AtomBook", "description": "Lightweight student laptop with 256GB SSD.", "price": 599.0, "image": "https://picsum.photos/seed/laptop12/600/400" },
+    { "id": 13, "title": "Vortex G5", "description": "Gaming beast with 165Hz screen and RGB keyboard.", "price": 1599.0, "image": "https://picsum.photos/seed/laptop13/600/400" },
+    { "id": 14, "title": "EcoBook E", "description": "Affordable laptop made from recycled materials.", "price": 399.0, "image": "https://picsum.photos/seed/laptop14/600/400" },
+    { "id": 15, "title": "Horizon 16", "description": "High-performance workstation for professionals.", "price": 2299.0, "image": "https://picsum.photos/seed/laptop15/600/400" }
+
+  ],
+
+"clothes": [
+  { "id": 1, "title": "Classic Cotton T-Shirt", "description": "Soft 100% cotton T-shirt available in multiple colors.", "price": 15.99, "image": "https://picsum.photos/seed/clothes1/600/400" },
+  { "id": 2, "title": "Denim Jeans Slim Fit", "description": "Stretchable blue denim with modern slim fit design.", "price": 39.5, "image": "https://picsum.photos/seed/clothes2/600/400" },
+  { "id": 3, "title": "Hooded Sweatshirt", "description": "Fleece-lined hoodie for comfort and warmth.", "price": 29.99, "image": "https://picsum.photos/seed/clothes3/600/400" },
+  { "id": 4, "title": "Linen Summer Shirt", "description": "Lightweight linen shirt ideal for summer wear.", "price": 25.99, "image": "https://picsum.photos/seed/clothes4/600/400" },
+  { "id": 5, "title": "Running Shorts", "description": "Quick-dry athletic shorts with side pockets.", "price": 19.0, "image": "https://picsum.photos/seed/clothes5/600/400" },
+  { "id": 6, "title": "Winter Jacket", "description": "Water-resistant insulated jacket for cold weather.", "price": 79.0, "image": "https://picsum.photos/seed/clothes6/600/400" },
+  { "id": 7, "title": "Yoga Leggings", "description": "High-waist stretchy leggings for comfort and flexibility.", "price": 22.5, "image": "https://picsum.photos/seed/clothes7/600/400" },
+  { "id": 8, "title": "Formal Blazer", "description": "Classic navy blazer suitable for work or events.", "price": 99.99, "image": "https://picsum.photos/seed/clothes8/600/400" },
+  { "id": 9, "title": "Polo T-Shirt", "description": "Casual polo shirt with embroidered logo.", "price": 19.99, "image": "https://picsum.photos/seed/clothes9/600/400" },
+  { "id": 10, "title": "Denim Jacket", "description": "Vintage-style blue denim jacket with metal buttons.", "price": 54.0, "image": "https://picsum.photos/seed/clothes10/600/400" },
+  { "id": 11, "title": "Chino Pants", "description": "Slim fit chinos in khaki color.", "price": 34.5, "image": "https://picsum.photos/seed/clothes11/600/400" },
+  { "id": 12, "title": "Wool Sweater", "description": "Soft wool-blend pullover sweater for men.", "price": 49.99, "image": "https://picsum.photos/seed/clothes12/600/400" },
+  { "id": 13, "title": "Maxi Dress", "description": "Floral print maxi dress for casual wear.", "price": 45.0, "image": "https://picsum.photos/seed/clothes13/600/400" },
+  { "id": 14, "title": "Leather Belt", "description": "Genuine leather belt with silver buckle.", "price": 24.99, "image": "https://picsum.photos/seed/clothes14/600/400" },
+  { "id": 15, "title": "Cotton Socks (5 pack)", "description": "Breathable cotton ankle socks in assorted colors.", "price": 12.99, "image": "https://picsum.photos/seed/clothes15/600/400" }
+],
+
+"fridges": [
+  { "id": 1, "title": "FrostPro 300L", "description": "Double-door fridge with frost-free cooling and inverter compressor.", "price": 499.0, "image": "https://picsum.photos/seed/fridge1/600/400" },
+  { "id": 2, "title": "ChillMax Mini 120L", "description": "Compact fridge ideal for bedrooms and offices.", "price": 189.0, "image": "https://picsum.photos/seed/fridge2/600/400" },
+  { "id": 3, "title": "CoolWave 400", "description": "Smart refrigerator with digital temperature control.", "price": 599.0, "image": "https://picsum.photos/seed/fridge3/600/400" },
+  { "id": 4, "title": "IceLine XL 500", "description": "Large capacity fridge with toughened glass shelves.", "price": 749.0, "image": "https://picsum.photos/seed/fridge4/600/400" },
+  { "id": 5, "title": "ArcticCool 250", "description": "Energy-efficient single-door refrigerator.", "price": 349.0, "image": "https://picsum.photos/seed/fridge5/600/400" },
+  { "id": 6, "title": "Glacier Pro 350L", "description": "Smart inverter fridge with humidity control.", "price": 529.0, "image": "https://picsum.photos/seed/fridge6/600/400" },
+  { "id": 7, "title": "Polar Fresh 220L", "description": "Compact and stylish single-door fridge.", "price": 299.0, "image": "https://picsum.photos/seed/fridge7/600/400" },
+  { "id": 8, "title": "MegaCool Side-by-Side", "description": "Side-by-side fridge with water dispenser and WiFi.", "price": 999.0, "image": "https://picsum.photos/seed/fridge8/600/400" },
+  { "id": 9, "title": "FrostFree 280L", "description": "Auto-defrost system with adjustable shelves.", "price": 429.0, "image": "https://picsum.photos/seed/fridge9/600/400" },
+  { "id": 10, "title": "IceBerg Smart 400", "description": "Convertible freezer and fridge with touchscreen display.", "price": 899.0, "image": "https://picsum.photos/seed/fridge10/600/400" },
+  { "id": 11, "title": "ChillMate 300", "description": "Perfect for medium families, energy-saving design.", "price": 459.0, "image": "https://picsum.photos/seed/fridge11/600/400" },
+  { "id": 12, "title": "FrostyEdge 320", "description": "Inverter cooling with LED lighting and door alarm.", "price": 579.0, "image": "https://picsum.photos/seed/fridge12/600/400" },
+  { "id": 13, "title": "SmartCool 360", "description": "Wi-Fi connected smart fridge with mobile control.", "price": 849.0, "image": "https://picsum.photos/seed/fridge13/600/400" },
+  { "id": 14, "title": "IceWind MiniBar", "description": "Mini fridge for drinks and snacks.", "price": 139.0, "image": "https://picsum.photos/seed/fridge14/600/400" },
+  { "id": 15, "title": "Polar Max 450L", "description": "Convertible fridge with digital inverter technology.", "price": 789.0, "image": "https://picsum.photos/seed/fridge15/600/400" }
+]
+,
+"washing_machines": [
+  { "id": 1, "title": "WashPro 7kg Front Load", "description": "Efficient front-loading washing machine with digital display.", "price": 399.0, "image": "https://picsum.photos/seed/washing1/600/400" },
+  { "id": 2, "title": "QuickWash 6kg Top Load", "description": "Compact top-loading washing machine with fast wash cycles.", "price": 299.0, "image": "https://picsum.photos/seed/washing2/600/400" },
+  { "id": 3, "title": "EcoWash 8kg Inverter", "description": "Energy-saving washing machine with smart inverter motor.", "price": 459.0, "image": "https://picsum.photos/seed/washing3/600/400" },
+  { "id": 4, "title": "SpinMax 9kg", "description": "Large capacity front-load machine with multiple wash programs.", "price": 499.0, "image": "https://picsum.photos/seed/washing4/600/400" },
+  { "id": 5, "title": "TurboWash 7kg", "description": "High-speed washing machine for daily laundry needs.", "price": 429.0, "image": "https://picsum.photos/seed/washing5/600/400" },
+  { "id": 6, "title": "SilentWash 6kg", "description": "Noise-reducing top-load washing machine with efficient spin.", "price": 319.0, "image": "https://picsum.photos/seed/washing6/600/400" },
+  { "id": 7, "title": "SmartWash 8kg", "description": "Wi-Fi enabled front-load washing machine with app control.", "price": 529.0, "image": "https://picsum.photos/seed/washing7/600/400" },
+  { "id": 8, "title": "EcoSpin 7kg", "description": "Energy-efficient machine with fast wash options.", "price": 399.0, "image": "https://picsum.photos/seed/washing8/600/400" },
+  { "id": 9, "title": "PowerWash 9kg", "description": "Heavy-duty machine with stainless steel drum.", "price": 549.0, "image": "https://picsum.photos/seed/washing9/600/400" },
+  { "id": 10, "title": "MiniWash 5kg", "description": "Compact washing machine for small apartments.", "price": 259.0, "image": "https://picsum.photos/seed/washing10/600/400" },
+  { "id": 11, "title": "FreshSpin 8kg", "description": "Front-load washer with steam wash and anti-bacterial function.", "price": 489.0, "image": "https://picsum.photos/seed/washing11/600/400" },
+  { "id": 12, "title": "UltraWash 10kg", "description": "Extra-large washing machine for families.", "price": 599.0, "image": "https://picsum.photos/seed/washing12/600/400" },
+  { "id": 13, "title": "SpinPro 7kg", "description": "Efficient washing machine with multiple wash modes.", "price": 429.0, "image": "https://picsum.photos/seed/washing13/600/400" },
+  { "id": 14, "title": "EcoTop 6kg", "description": "Top-load machine with smart water-saving feature.", "price": 319.0, "image": "https://picsum.photos/seed/washing14/600/400" },
+  { "id": 15, "title": "SilentSpin 7kg", "description": "Quiet washing machine ideal for apartments.", "price": 399.0, "image": "https://picsum.photos/seed/washing15/600/400" }
+],
+
+"coolers": [
+  { "id": 1, "title": "Arctic Breeze 50L", "description": "Portable cooler with adjustable temperature.", "price": 129.0, "image": "https://picsum.photos/seed/cooler1/600/400" },
+  { "id": 2, "title": "IceFlow 70L", "description": "Energy-efficient air cooler for medium rooms.", "price": 159.0, "image": "https://picsum.photos/seed/cooler2/600/400" },
+  { "id": 3, "title": "ChillPro 60L", "description": "High-velocity air cooler with remote control.", "price": 179.0, "image": "https://picsum.photos/seed/cooler3/600/400" },
+  { "id": 4, "title": "BreezeMax 40L", "description": "Compact cooler suitable for personal rooms.", "price": 99.0, "image": "https://picsum.photos/seed/cooler4/600/400" },
+  { "id": 5, "title": "CoolWave 80L", "description": "Powerful cooler with ice chamber and humidifier function.", "price": 199.0, "image": "https://picsum.photos/seed/cooler5/600/400" },
+  { "id": 6, "title": "PolarAir 50L", "description": "Portable and lightweight cooler for easy movement.", "price": 139.0, "image": "https://picsum.photos/seed/cooler6/600/400" },
+  { "id": 7, "title": "ArcticFlow 65L", "description": "High-capacity cooler for large rooms.", "price": 189.0, "image": "https://picsum.photos/seed/cooler7/600/400" },
+  { "id": 8, "title": "EcoBreeze 45L", "description": "Low energy consumption cooler with timer function.", "price": 119.0, "image": "https://picsum.photos/seed/cooler8/600/400" },
+  { "id": 9, "title": "WindChill 55L", "description": "Air cooler with 3-speed fan and wide coverage.", "price": 149.0, "image": "https://picsum.photos/seed/cooler9/600/400" },
+  { "id": 10, "title": "IceBreeze 60L", "description": "Portable cooler with easy-fill water tank.", "price": 169.0, "image": "https://picsum.photos/seed/cooler10/600/400" },
+  { "id": 11, "title": "BreezeLite 50L", "description": "Lightweight and compact air cooler for bedrooms.", "price": 129.0, "image": "https://picsum.photos/seed/cooler11/600/400" },
+  { "id": 12, "title": "FrostWind 70L", "description": "High-performance cooler with ice compartment.", "price": 179.0, "image": "https://picsum.photos/seed/cooler12/600/400" },
+  { "id": 13, "title": "ChillMate 55L", "description": "Portable cooler with remote control and timer.", "price": 149.0, "image": "https://picsum.photos/seed/cooler13/600/400" },
+  { "id": 14, "title": "CoolerPro 65L", "description": "Powerful air cooler with wide-angle airflow.", "price": 189.0, "image": "https://picsum.photos/seed/cooler14/600/400" },
+  { "id": 15, "title": "WindMaster 60L", "description": "Energy-efficient cooler for home and office.", "price": 169.0, "image": "https://picsum.photos/seed/cooler15/600/400" }
+]
+}

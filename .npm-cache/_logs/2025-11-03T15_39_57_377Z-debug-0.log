@@ -1,0 +1,346 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.17.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/yaramanisai/deals-demo/.npmrc
+5 silly config load:file:/Users/yaramanisai/.npmrc
+6 silly config load:file:/Users/yaramanisai/.npm-global/etc/npmrc
+7 verbose title npm install motion
+8 verbose argv "install" "motion" "--save" "--no-audit" "--no-fund"
+9 verbose logfile logs-max:10 dir:/Users/yaramanisai/deals-demo/.npm-cache/_logs/2025-11-03T15_39_57_377Z-
+10 verbose logfile /Users/yaramanisai/deals-demo/.npm-cache/_logs/2025-11-03T15_39_57_377Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 silly idealTree buildDeps
+14 silly fetch manifest motion@^12.23.24
+15 silly packumentCache full:https://registry.npmjs.org/motion cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/motion 184ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/motion set size:undefined disposed:false
+18 silly fetch manifest @emotion/is-prop-valid@*
+19 silly packumentCache full:https://registry.npmjs.org/@emotion%2fis-prop-valid cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/@emotion%2fis-prop-valid 59ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/@emotion%2fis-prop-valid set size:undefined disposed:false
+22 silly fetch manifest react@19.2.0
+23 silly packumentCache full:https://registry.npmjs.org/react cache-miss
+24 http fetch GET 200 https://registry.npmjs.org/react 53ms (cache revalidated)
+25 silly packumentCache full:https://registry.npmjs.org/react set size:6220657 disposed:false
+26 silly fetch manifest react-dom@19.2.0
+27 silly packumentCache full:https://registry.npmjs.org/react-dom cache-miss
+28 http fetch GET 200 https://registry.npmjs.org/react-dom 53ms (cache revalidated)
+29 silly packumentCache full:https://registry.npmjs.org/react-dom set size:8131756 disposed:false
+30 silly placeDep ROOT motion@12.23.24 REPLACE for: web@0.1.0 want: ^12.23.24
+31 silly reify moves {}
+32 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-wasm32-wasi
+33 silly reify mark deleted [
+33 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-wasm32-wasi'
+33 silly reify ]
+34 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/lightningcss-win32-x64-msvc
+35 silly reify mark deleted [
+35 silly reify   '/Users/yaramanisai/deals-demo/node_modules/lightningcss-win32-x64-msvc'
+35 silly reify ]
+36 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/lightningcss-win32-arm64-msvc
+37 silly reify mark deleted [
+37 silly reify   '/Users/yaramanisai/deals-demo/node_modules/lightningcss-win32-arm64-msvc'
+37 silly reify ]
+38 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/lightningcss-linux-x64-musl
+39 silly reify mark deleted [
+39 silly reify   '/Users/yaramanisai/deals-demo/node_modules/lightningcss-linux-x64-musl'
+39 silly reify ]
+40 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/lightningcss-linux-x64-gnu
+41 silly reify mark deleted [
+41 silly reify   '/Users/yaramanisai/deals-demo/node_modules/lightningcss-linux-x64-gnu'
+41 silly reify ]
+42 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/lightningcss-linux-arm64-musl
+43 silly reify mark deleted [
+43 silly reify   '/Users/yaramanisai/deals-demo/node_modules/lightningcss-linux-arm64-musl'
+43 silly reify ]
+44 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/lightningcss-linux-arm64-gnu
+45 silly reify mark deleted [
+45 silly reify   '/Users/yaramanisai/deals-demo/node_modules/lightningcss-linux-arm64-gnu'
+45 silly reify ]
+46 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/lightningcss-linux-arm-gnueabihf
+47 silly reify mark deleted [
+47 silly reify   '/Users/yaramanisai/deals-demo/node_modules/lightningcss-linux-arm-gnueabihf'
+47 silly reify ]
+48 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/lightningcss-freebsd-x64
+49 silly reify mark deleted [
+49 silly reify   '/Users/yaramanisai/deals-demo/node_modules/lightningcss-freebsd-x64'
+49 silly reify ]
+50 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/lightningcss-darwin-x64
+51 silly reify mark deleted [
+51 silly reify   '/Users/yaramanisai/deals-demo/node_modules/lightningcss-darwin-x64'
+51 silly reify ]
+52 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/lightningcss-android-arm64
+53 silly reify mark deleted [
+53 silly reify   '/Users/yaramanisai/deals-demo/node_modules/lightningcss-android-arm64'
+53 silly reify ]
+54 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-win32-x64-msvc
+55 silly reify mark deleted [
+55 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-win32-x64-msvc'
+55 silly reify ]
+56 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-win32-ia32-msvc
+57 silly reify mark deleted [
+57 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-win32-ia32-msvc'
+57 silly reify ]
+58 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-win32-arm64-msvc
+59 silly reify mark deleted [
+59 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-win32-arm64-msvc'
+59 silly reify ]
+60 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-wasm32-wasi
+61 silly reify mark deleted [
+61 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-wasm32-wasi'
+61 silly reify ]
+62 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-x64-musl
+63 silly reify mark deleted [
+63 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-x64-musl'
+63 silly reify ]
+64 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-x64-gnu
+65 silly reify mark deleted [
+65 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-x64-gnu'
+65 silly reify ]
+66 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-s390x-gnu
+67 silly reify mark deleted [
+67 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-s390x-gnu'
+67 silly reify ]
+68 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-riscv64-musl
+69 silly reify mark deleted [
+69 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-riscv64-musl'
+69 silly reify ]
+70 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-riscv64-gnu
+71 silly reify mark deleted [
+71 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-riscv64-gnu'
+71 silly reify ]
+72 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-ppc64-gnu
+73 silly reify mark deleted [
+73 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-ppc64-gnu'
+73 silly reify ]
+74 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-arm64-musl
+75 silly reify mark deleted [
+75 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-arm64-musl'
+75 silly reify ]
+76 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-arm64-gnu
+77 silly reify mark deleted [
+77 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-arm64-gnu'
+77 silly reify ]
+78 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-arm-musleabihf
+79 silly reify mark deleted [
+79 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-arm-musleabihf'
+79 silly reify ]
+80 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-arm-gnueabihf
+81 silly reify mark deleted [
+81 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-linux-arm-gnueabihf'
+81 silly reify ]
+82 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-freebsd-x64
+83 silly reify mark deleted [
+83 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-freebsd-x64'
+83 silly reify ]
+84 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-darwin-x64
+85 silly reify mark deleted [
+85 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-darwin-x64'
+85 silly reify ]
+86 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-android-arm64
+87 silly reify mark deleted [
+87 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-android-arm64'
+87 silly reify ]
+88 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-android-arm-eabi
+89 silly reify mark deleted [
+89 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@unrs/resolver-binding-android-arm-eabi'
+89 silly reify ]
+90 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-win32-x64-msvc
+91 silly reify mark deleted [
+91 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-win32-x64-msvc'
+91 silly reify ]
+92 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-win32-arm64-msvc
+93 silly reify mark deleted [
+93 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-win32-arm64-msvc'
+93 silly reify ]
+94 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-linux-x64-musl
+95 silly reify mark deleted [
+95 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-linux-x64-musl'
+95 silly reify ]
+96 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-linux-x64-gnu
+97 silly reify mark deleted [
+97 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-linux-x64-gnu'
+97 silly reify ]
+98 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-linux-arm64-musl
+99 silly reify mark deleted [
+99 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-linux-arm64-musl'
+99 silly reify ]
+100 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-linux-arm64-gnu
+101 silly reify mark deleted [
+101 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-linux-arm64-gnu'
+101 silly reify ]
+102 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-linux-arm-gnueabihf
+103 silly reify mark deleted [
+103 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-linux-arm-gnueabihf'
+103 silly reify ]
+104 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-freebsd-x64
+105 silly reify mark deleted [
+105 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-freebsd-x64'
+105 silly reify ]
+106 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-darwin-x64
+107 silly reify mark deleted [
+107 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-darwin-x64'
+107 silly reify ]
+108 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-android-arm64
+109 silly reify mark deleted [
+109 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@tailwindcss/oxide-android-arm64'
+109 silly reify ]
+110 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@next/swc-win32-x64-msvc
+111 silly reify mark deleted [
+111 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@next/swc-win32-x64-msvc'
+111 silly reify ]
+112 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@next/swc-win32-arm64-msvc
+113 silly reify mark deleted [
+113 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@next/swc-win32-arm64-msvc'
+113 silly reify ]
+114 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@next/swc-linux-x64-musl
+115 silly reify mark deleted [
+115 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@next/swc-linux-x64-musl'
+115 silly reify ]
+116 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@next/swc-linux-x64-gnu
+117 silly reify mark deleted [
+117 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@next/swc-linux-x64-gnu'
+117 silly reify ]
+118 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@next/swc-linux-arm64-musl
+119 silly reify mark deleted [
+119 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@next/swc-linux-arm64-musl'
+119 silly reify ]
+120 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@next/swc-linux-arm64-gnu
+121 silly reify mark deleted [
+121 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@next/swc-linux-arm64-gnu'
+121 silly reify ]
+122 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@next/swc-darwin-x64
+123 silly reify mark deleted [ '/Users/yaramanisai/deals-demo/node_modules/@next/swc-darwin-x64' ]
+124 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-win32-x64
+125 silly reify mark deleted [ '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-win32-x64' ]
+126 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-win32-ia32
+127 silly reify mark deleted [ '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-win32-ia32' ]
+128 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-win32-arm64
+129 silly reify mark deleted [ '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-win32-arm64' ]
+130 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-wasm32
+131 silly reify mark deleted [ '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-wasm32' ]
+132 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-linuxmusl-x64
+133 silly reify mark deleted [
+133 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-linuxmusl-x64'
+133 silly reify ]
+134 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-linuxmusl-arm64
+135 silly reify mark deleted [
+135 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-linuxmusl-arm64'
+135 silly reify ]
+136 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-linux-x64
+137 silly reify mark deleted [ '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-linux-x64' ]
+138 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-linux-s390x
+139 silly reify mark deleted [ '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-linux-s390x' ]
+140 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-linux-ppc64
+141 silly reify mark deleted [ '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-linux-ppc64' ]
+142 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-linux-arm64
+143 silly reify mark deleted [ '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-linux-arm64' ]
+144 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-linux-arm
+145 silly reify mark deleted [ '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-linux-arm' ]
+146 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linuxmusl-x64
+147 silly reify mark deleted [
+147 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linuxmusl-x64'
+147 silly reify ]
+148 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linuxmusl-arm64
+149 silly reify mark deleted [
+149 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linuxmusl-arm64'
+149 silly reify ]
+150 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linux-x64
+151 silly reify mark deleted [
+151 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linux-x64'
+151 silly reify ]
+152 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linux-s390x
+153 silly reify mark deleted [
+153 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linux-s390x'
+153 silly reify ]
+154 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linux-ppc64
+155 silly reify mark deleted [
+155 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linux-ppc64'
+155 silly reify ]
+156 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linux-arm64
+157 silly reify mark deleted [
+157 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linux-arm64'
+157 silly reify ]
+158 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linux-arm
+159 silly reify mark deleted [
+159 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-linux-arm'
+159 silly reify ]
+160 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-darwin-x64
+161 silly reify mark deleted [
+161 silly reify   '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-libvips-darwin-x64'
+161 silly reify ]
+162 verbose reify failed optional dependency /Users/yaramanisai/deals-demo/node_modules/@img/sharp-darwin-x64
+163 silly reify mark deleted [ '/Users/yaramanisai/deals-demo/node_modules/@img/sharp-darwin-x64' ]
+164 silly ADD
+165 silly ADD
+166 silly ADD
+167 silly ADD
+168 silly ADD
+169 silly ADD
+170 silly ADD
+171 silly ADD
+172 silly ADD
+173 silly ADD
+174 silly ADD
+175 silly ADD
+176 silly ADD
+177 silly ADD
+178 silly ADD
+179 silly ADD
+180 silly ADD
+181 silly ADD
+182 silly ADD
+183 silly ADD
+184 silly ADD
+185 silly ADD
+186 silly ADD
+187 silly ADD
+188 silly ADD
+189 silly ADD
+190 silly ADD
+191 silly ADD
+192 silly ADD
+193 silly ADD
+194 silly ADD
+195 silly ADD
+196 silly ADD
+197 silly ADD
+198 silly ADD
+199 silly ADD
+200 silly ADD
+201 silly ADD
+202 silly ADD
+203 silly ADD
+204 silly ADD
+205 silly ADD
+206 silly ADD
+207 silly ADD
+208 silly ADD
+209 silly ADD
+210 silly ADD
+211 silly ADD
+212 silly ADD
+213 silly ADD
+214 silly ADD
+215 silly ADD
+216 silly ADD
+217 silly ADD
+218 silly ADD
+219 silly ADD
+220 silly ADD
+221 silly ADD
+222 silly ADD
+223 silly ADD
+224 silly ADD
+225 silly ADD
+226 silly ADD
+227 silly ADD
+228 silly ADD
+229 silly ADD
+230 verbose cwd /Users/yaramanisai/deals-demo
+231 verbose os Darwin 25.0.0
+232 verbose node v22.17.0
+233 verbose npm  v10.9.2
+234 verbose exit 0
+235 info ok
