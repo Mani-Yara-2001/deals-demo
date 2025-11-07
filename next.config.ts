@@ -1,6 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // Enable Partial Prerendering via cacheComponents (replaces experimental.ppr)
+  experimental: {
+    cacheComponents: true,
+  },
   images: {
     remotePatterns: [
       {
@@ -14,6 +18,10 @@ const nextConfig: NextConfig = {
       {
         protocol: 'https',
         hostname: 'i.imgur.com',
+      },
+      {
+        protocol: "https",
+        hostname: "th.bing.com", // 👈 add this line
       },
     ],
   },
